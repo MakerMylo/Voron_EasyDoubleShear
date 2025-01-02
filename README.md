@@ -5,8 +5,8 @@ I used these to add Double Shear to my printed AB Motors but see no reason why t
 
 Bill of Materials
 ==
-- 2x F695 Bearings (Fushi recommended) [AliExpress](https://s.click.aliexpress.com/e/_oConF27)\
-- 6x 40mm SHCS M3 Screws [AliExpress](https://s.click.aliexpress.com/e/_oo3MR5Z)\
+- 2x F695 Bearings (Fushi recommended) [AliExpress](https://s.click.aliexpress.com/e/_oConF27)
+- 6x 40mm SHCS M3 Screws [AliExpress](https://s.click.aliexpress.com/e/_oo3MR5Z)
 - 2x Long Shaft Motors, I used LDO S55 Motors (55mm Shaft)
 
 Assembly
